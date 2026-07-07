@@ -11,6 +11,7 @@ O objetivo é organizar conteúdos confiáveis, registrar os principais aprendiz
 https://sites.icmc.usp.br/rfausas/pmwiki/uploads/Main/MFC2025_notes.pdf
 
 https://www.mr-cfd.com/cfd-for-beginners-concepts/
+
 https://volupe.com/support/basic-cfd-concepts-fluid-dynamics/
 
 ## Engenharia de Prompts e "Cicatrizes"
